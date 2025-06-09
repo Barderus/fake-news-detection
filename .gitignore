@@ -1,0 +1,37 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Virtual environment
+venv/
+.env/
+.env.*
+*.env
+
+# PyCharm project settings
+.idea/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Kaggle API credentials
+.kaggle/
+kaggle.json
+
+# Data files (especially raw Kaggle datasets)
+data/raw/
+*.zip
+*.csv
+*.tsv
+*.json
+*.xlsx
+
+# Logs
+*.log
+
+# MacOS and Windows hidden files
+.DS_Store
+Thumbs.db
